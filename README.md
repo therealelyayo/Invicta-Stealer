@@ -19,10 +19,16 @@ We have studied real world scenarios, and came up with advanced filters that wil
 The stealer gets recently opened .txt files, recursively iterates through the computer to find sensitive information, steals github and visual studio code repositories (with bloat removed), gets .txt files from desktop, documents, etc
 
 ## 📁 FTP CLIENTS
-Information is obtained from WinSCP and FileZilla
+WinSCP and FileZilla
+
+## 📁 GAMING CLIENTS
+Steam sessions, usernames and a list of games
+
+## 📁 PASSWORD MANAGERS
+Keepass
 
 ## 📁 SYSTEM INFORMATION
-We collect system information, which includes the HWID, IP, timezone, computer language, RAM, CPU information, etc
+We collect system information, which includes the HWID, IP, timezone, computer language, RAM, CPU information, Windows & build version, path of the stealer, list of installed apps, etc
 
 ## 📁 ANTI-DEBUGGING, EVASION TECHNIQUES
 We use anti-debug/anti-virustotal/anti-vm techniques which complicate analysis of the malware. Your link will be encrypted in the stealer file.
