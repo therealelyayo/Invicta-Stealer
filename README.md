@@ -36,7 +36,7 @@ Sensitive operations are performed through syscalls, which make them harder to d
 
 ## TUTORIAL
 
-1. Download the Builder ZIP file
+1. Download the Builder ZIP file 
 2. Run Builder.exe
 3. Input discord webhook, or an URL to your HTTP server into the box
 4. Click build
