@@ -45,5 +45,4 @@ Sensitive operations are performed through syscalls, which make them harder to d
 You have to turn your antivirus off while doing this, because the AV might flag this as it patches the malicious file
 
 Contact us on our telegram channel if you need help or have suggestions. We strive to be the best.
-
 https://t.me/invicta_stealer
