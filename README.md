@@ -33,7 +33,7 @@ We collect system information, which includes the HWID, IP, timezone, computer l
 ## 📁 ANTI-DEBUGGING, EVASION TECHNIQUES
 We use anti-debug/anti-virustotal/anti-vm techniques which complicate analysis of the malware. Your link will be encrypted in the stealer file.
 Sensitive operations are performed through syscalls, which make them harder to detect by AVs and analysts, and all strings are encrypted.
-
+ 
 ## TUTORIAL
 
 1. Download the Builder ZIP file 
