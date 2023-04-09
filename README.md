@@ -23,7 +23,7 @@ WinSCP and FileZilla
 
 ## 📁 GAMING CLIENTS
 Steam sessions, usernames and a list of games
-
+ 
 ## 📁 PASSWORD MANAGERS
 Keepass
 
