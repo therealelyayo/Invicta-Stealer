@@ -10,7 +10,7 @@ We collect: credit card data, autofill, history, all extensions which include 80
 
 ## 📁 DISCORD
 All of the discord tokens are extracted from: the regular client, discord canary, ptb discord and browser local storage 
-
+ 
 ## 📁 CRYPTO
 Wallet information is collected from 25 wallets, with new ones being actively added.
 
