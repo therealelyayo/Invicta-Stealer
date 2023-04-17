@@ -28,7 +28,7 @@ Steam sessions, usernames and a list of games
 Keepass
 
 ## 📁 SYSTEM INFORMATION
-We collect system information, which includes the HWID, IP, timezone, computer language, RAM, CPU information, Windows & build version, path of the stealer, list of installed apps, etc
+We collect system information, which includes the HWID, IP, timezone, computer language, RAM, CPU information, Windows & build version, path of the stealer, list of installed apps, etc 
 
 ## 📁 ANTI-DEBUGGING, EVASION TECHNIQUES
 We use anti-debug/anti-virustotal/anti-vm techniques which complicate analysis of the malware. Your link will be encrypted in the stealer file.
