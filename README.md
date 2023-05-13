@@ -17,7 +17,7 @@ Wallet information is collected from 25 wallets, with new ones being actively ad
 ## 📁 SENSITIVE DIRECTORIES AND FILES
 We have studied real world scenarios, and came up with advanced filters that will fetch you sensitive information related to cryptocurrency wallets, bank accounts, passwords, private keys, etc.
 The stealer gets recently opened .txt files, recursively iterates through the computer to find sensitive information, steals github and visual studio code repositories (with bloat removed), gets .txt files from desktop, documents, etc
-
+ 
 ## 📁 FTP CLIENTS
 WinSCP and FileZilla
 
