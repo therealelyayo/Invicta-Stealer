@@ -8,7 +8,7 @@ NOTE: THIS IS FOR EDUCATIONAL PURPOSES ONLY. YOU MAY NOT USE THIS FOR MALICIOUS 
 Information is obtained from all the profiles from all chromium-based (the most used) browsers, and firefox.
 We collect: credit card data, autofill, history, all extensions which include 80+ crypto wallets, various authenticators and password managers, local storage, downloads, and much more. Essentially, all the information is collected.
 
-## 📁 DISCORD
+## 📁 DISCORD 
 All of the discord tokens are extracted from: the regular client, discord canary, ptb discord and browser local storage 
  
 ## 📁 CRYPTO
