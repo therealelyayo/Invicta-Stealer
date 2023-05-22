@@ -1,7 +1,7 @@
 # ⚔️Invicta Stealer — a powerful, free native stealer⚔️
 
 This is a C++ stealer which is being actively improved upon, with the help we receive from our active community.
-
+ 
 NOTE: THIS IS FOR EDUCATIONAL PURPOSES ONLY. YOU MAY NOT USE THIS FOR MALICIOUS PURPOSES.
   
 ## 📁 BROWSERS 
